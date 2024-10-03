@@ -1,0 +1,13 @@
+{
+    "input": {
+      "text": "Hello, this is a test."
+    },
+    "voice": {
+      "languageCode": "en-US",
+      "ssmlGender": "FEMALE"
+    },
+    "audioConfig": {
+      "audioEncoding": "MP3"
+    }
+  }
+  

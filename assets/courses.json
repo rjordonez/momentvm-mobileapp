@@ -1,0 +1,1474 @@
+{
+    "categories": {
+      "Personal Finance": {
+        "courses": [
+          {
+            "course_name": "Budget Basics",
+            "activities": [
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Income",
+                  "time": "30 minutes",
+                  "finished": true
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Personal Budget",
+                  "time": "45 minutes",
+                  "finished": true
+                }
+              },
+              {
+                "level": {
+                  "level_number": 1
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Spending Habits",
+                  "time": "40 minutes",
+                  "finished": true
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Budget",
+                  "time": "35 minutes",
+                  "finished": true
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Tools",
+                  "time": "25 minutes",
+                  "finished": true
+                }
+              },
+              {
+                "level": {
+                  "level_number": 2
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Personal Budget",
+                  "time": "45 minutes",
+                  "finished": true
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Spending Habits",
+                  "time": "40 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Budget",
+                  "time": "35 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Tools",
+                  "time": "25 minutes",
+                  "finished": false
+                }
+              }
+            ]
+          },
+          {
+            "course_name": "Goals",
+            "activities": [
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Short-term vs Long-term Goals",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "SMART Goal Setting",
+                  "time": "40 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Prioritizing Financial Goals",
+                  "time": "35 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Monitoring Progress",
+                  "time": "25 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "4",
+                  "title": "Adjusting Goals Over Time",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              }
+            ]
+          },
+          {
+            "course_name": "Income",
+            "activities": [
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Types of Income",
+                  "time": "25 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Fixed vs Variable Expenses",
+                  "time": "35 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Analyzing Spending Patterns",
+                  "time": "40 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Reducing Unnecessary Expenses",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "4",
+                  "title": "Increasing Income Streams",
+                  "time": "45 minutes",
+                  "finished": false
+                }
+              }
+            ]
+          },
+          {
+            "course_name": "Saving",
+            "activities": [
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Building an Emergency Fund",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Saving for Retirement",
+                  "time": "40 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Goal-based Savings",
+                  "time": "35 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "High-Yield Savings Accounts",
+                  "time": "25 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "4",
+                  "title": "Automating Your Savings",
+                  "time": "20 minutes",
+                  "finished": false
+                }
+              }
+            ]
+          },
+          {
+            "course_name": "Statements",
+            "activities": [
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Understanding Balance Sheets",
+                  "time": "35 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Reading Income Statements",
+                  "time": "40 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Analyzing Cash Flow Statements",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Personal Net Worth Statements",
+                  "time": "45 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "4",
+                  "title": "Using Financial Ratios",
+                  "time": "25 minutes",
+                  "finished": false
+                }
+              }
+            ]
+          },
+          {
+            "course_name": "Decision-making",
+            "activities": [
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Evaluating Financial Options",
+                  "time": "35 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Understanding Risk and Reward",
+                  "time": "40 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "The Time Value of Money",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Cost-Benefit Analysis",
+                  "time": "45 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "4",
+                  "title": "Avoiding Common Financial Mistakes",
+                  "time": "25 minutes",
+                  "finished": false
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "Banking Essentials": {
+        "courses": [
+          {
+            "course_name": "Bank accounts",
+            "activities": [
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Understanding Income and Expenses",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Creating a Personal Budget",
+                  "time": "45 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Tracking Spending Habits",
+                  "time": "40 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Adjusting Your Budget",
+                  "time": "35 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "4",
+                  "title": "Budgeting Tools and Apps",
+                  "time": "25 minutes",
+                  "finished": false
+                }
+              }
+            ]
+          },
+          {
+            "course_name": "Mobile Banking",
+            "activities": [
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Short-term vs Long-term Goals",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "SMART Goal Setting",
+                  "time": "40 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Prioritizing Financial Goals",
+                  "time": "35 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Monitoring Progress",
+                  "time": "25 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "4",
+                  "title": "Adjusting Goals Over Time",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              }
+            ]
+          },
+          {
+            "course_name": "Interest",
+            "activities": [
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Types of Income",
+                  "time": "25 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Fixed vs Variable Expenses",
+                  "time": "35 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Analyzing Spending Patterns",
+                  "time": "40 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Reducing Unnecessary Expenses",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "4",
+                  "title": "Increasing Income Streams",
+                  "time": "45 minutes",
+                  "finished": false
+                }
+              }
+            ]
+          },
+          {
+            "course_name": "Reconciliation",
+            "activities": [
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Building an Emergency Fund",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Saving for Retirement",
+                  "time": "40 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Goal-based Savings",
+                  "time": "35 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "High-Yield Savings Accounts",
+                  "time": "25 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "4",
+                  "title": "Automating Your Savings",
+                  "time": "20 minutes",
+                  "finished": false
+                }
+              }
+            ]
+          },
+          {
+            "course_name": "Institutions",
+            "activities": [
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Understanding Balance Sheets",
+                  "time": "35 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Reading Income Statements",
+                  "time": "40 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Analyzing Cash Flow Statements",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Personal Net Worth Statements",
+                  "time": "45 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "4",
+                  "title": "Using Financial Ratios",
+                  "time": "25 minutes",
+                  "finished": false
+                }
+              }
+            ]
+          },
+          {
+            "course_name": "Management",
+            "activities": [
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Evaluating Financial Options",
+                  "time": "35 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Understanding Risk and Reward",
+                  "time": "40 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "The Time Value of Money",
+                  "time": "30 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Cost-Benefit Analysis",
+                  "time": "45 minutes",
+                  "finished": false
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "4",
+                  "title": "Avoiding Common Financial Mistakes",
+                  "time": "25 minutes",
+                  "finished": false
+                }
+              }
+            ]
+          }
+        ]
+      },
+       "Credit Management": {
+      "courses": [
+        {
+          "course_name": "Bank Type",
+          "activities": []
+        },
+        {
+          "course_name": "Mobile Banking",
+          "activities": []
+        },
+        {
+          "course_name": "Interest Rates",
+          "activities": []
+        },
+        {
+          "course_name": "Reconciliation",
+          "activities": []
+        },
+        {
+          "course_name": "Institutios",
+          "activities": []
+        },
+        {
+          "course_name": "Management",
+          "activities": []
+        }
+      ]
+    },
+      "NIL": {
+        "courses": [
+          {
+            "course_name": "Policy",
+            "activities": [
+              {
+                "level": {
+                  "level_number": 1
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Introduction",
+                  "time": "5 minutes",
+                  "finished": true,
+                  "videopath": "nil-vids/video-1.mp4",
+                  "content": {
+                    "type": "video",
+                    "transcript": "Hey there, Trojans! Welcome to our NIL Policy training session. I'm Cameron, a football player from USC and I'm here to break down this policy for you in a way that's easy to understand and apply to your life as a student-athlete.\n\nYou've probably heard a lot of buzz about NIL, right? Well, as of July 13, 2021, USC has put this policy in place to help you make the most of your personal brand while still playing by the rules. It's all about empowering you to earn some cash from your name, image, and likeness without compromising your status as a student-athlete.\n\nToday, we're going to cover the ins and outs of this policy, so you can confidently navigate the world of NIL opportunities. Let's dive in!"
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Policy Overview",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "videopath": "nil-vids/video-2.mp4",
+                  "content": {
+                    "type": "video",
+                    "transcript": "Alright, let's start with the basics. This NIL policy is like your playbook for making money off your personal brand. It applies to all of us here at USC - students, staff, volunteers, and even those die-hard Trojan boosters.\n\nHere's the deal:\nFirst, You can now earn money from your name, image, and likeness.\nSecond, however, you've got to play by the rules - both USC's and the NCAA's.\nThird, This policy might change over time, so stay tuned for updates.\nThink of it like this: USC is giving you the green light to monetize your brand, but we're also here to make sure you don't accidentally step out of bounds."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "NIL Policy Quiz",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "type": "quiz",
+                    "question": "Who does the USC NIL policy apply to?",
+                    "options": [
+                      "A) Only student-athletes",
+                      "B) Student-athletes and staff",
+                      "C) Student-athletes, staff, and volunteers",
+                      "D) Student-athletes, staff, volunteers, and boosters"
+                    ],
+                    "correct_answer": "D",
+                    "explanation": "USC NIL policy covers student-athletes, staff, volunteers, and boosters to ensure compliance and transparency."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Permitted NIL Activities",
+                  "time": "10 minutes",
+                  "finished": false,
+                  "content": {
+                    "type": "text_audio",
+                    "text": "Now, let's talk about what you CAN do. There's a whole world of opportunities out there, and we want you to make the most of them!\n\nHere are some examples of what's allowed:\n\n1. Appearing in ads: Imagine Isaiah Mobley starring in a commercial for a local pizza joint. That's totally cool!\n2. Selling autographs: If fans want to pay for your signature, go for it!\n3. Running camps or clinics: Let's say Tahj Eaddy wants to host a basketball camp for kids. That's a great way to earn some extra cash and give back to the community.\n4. Making personal appearances: If a local business wants to pay you to show up at their grand opening, that's fair game.\n\nBut remember, these activities shouldn't interfere with your team commitments or your classes. We don't want you missing practice or skipping an exam for a photoshoot!\n\nNow, here's what's NOT allowed:\n\n1. \"Pay-for-play\" deals: You can't get paid just for being on the team or for how well you play in games.\n2. Recruiting bribes: No one can offer you money to come to USC or stay at USC.\n3. Fake deals: You can't accept money for work you're not actually doing.\n\nFor example, if a booster offered Drake London $10,000 just to catch touchdowns in the next game, that would be a big no-no. But if a sports drink company wanted Drake to promote their product on Instagram? That's totally fine!",
+                    "image": "nil/nil-activities.png"
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Permitted NIL Activities Quiz",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "type": "quiz",
+                    "question": "Which of the following is NOT a permitted NIL activity according to the policy?",
+                    "options": [
+                      "A) Selling autographs",
+                      "B) Running camps or clinics",
+                      "C) Accepting \"pay-for-play\" deals",
+                      "D) Making personal appearances"
+                    ],
+                    "correct_answer": "C",
+                    "explanation": "\"Pay-for-play\" deals, where compensation is directly tied to athletic performance or enrollment, are not permitted."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Disclosure Requirements",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "videopath": "nil-vids/video-3.mp4",
+                  "content": {
+                    "type": "video",
+                    "transcript": "Alright, this part is super important, so listen up!\n\nAnytime you sign an NIL deal, you've got to let USC know about it. It doesn't matter if it's a big contract or just a small gig, written or verbal - you've got to spill the beans.\n\nHere's how you do it:\nFirstly, Use the INFLCR app to submit a disclosure form.\nSecondly, Wait for USC to review it and make sure there are no conflicts.\nThirdly, don't finalize anything until USC gives you the thumbs up.\n\nLet's say Onyeka Okongwu (when he was at USC) got offered a deal to promote a new basketball shoe. Before he signs anything, he'd need to submit the details through the INFLCR app. USC would then check to make sure it doesn't conflict with our Nike deal. Once USC says it's all good, Onyeka could move forward with the deal.\n\nThis might seem like a hassle, but it's actually there to protect you. We don't want you accidentally signing a deal that could get you in trouble with NCAA's rules or conflict with USC's agreements."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "NIL Process Quiz",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "type": "quiz",
+                    "question": "What is the correct process for disclosing an NIL deal?",
+                    "options": [
+                      "A) Verbally inform your coach",
+                      "B) Submit a form through the INFLCR app and wait for USC's approval",
+                      "C) Post about it on social media",
+                      "D) Sign the deal and inform USC afterwards"
+                    ],
+                    "correct_answer": "B",
+                    "explanation": "Student-athletes must submit a disclosure through the INFLCR app and wait for USC's approval before finalizing any NIL deal."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Term #1",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "text": "Compensation Cap: Limits the maximum earnings a student-athlete can receive from NIL deals."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "USC Marks",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "videopath": "nil-vids/video-4.mp4",
+                  "content": {
+                    "type": "video",
+                    "transcript": "Now, let's talk about using USC's brand in your NIL activities. This includes our uniforms, logos, and even photos of you in USC gear.\n\nThe golden rule here is: Always ask for permission before using any USC marks in your NIL deals.\n\nHere's a quick rundown:\nFirstly, Want to use USC stuff? Submit a request through the INFLCR app.\nSecondly, Wait for written approval from USC.\nLastly, Only use what's specifically approved.\n\nFor example, let's say Evan Mobley (when he was at USC) wanted to sell t-shirts with his name and the USC logo. He'd need to work with a USC-approved licensee and get permission from USC first. But what if he just wanted to describe himself as a \"USC basketball player\" in his Instagram bio? That's usually okay without special permission.\n\nRemember, USC won't approve anything that conflicts with our existing sponsorships or involves stuff like gambling, drugs, or anything else that might make the university look bad.\n\nIf you're not sure, just ask! We're here to help you navigate this stuff."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Student Compliance Quiz",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "type": "quiz",
+                    "question": "If a student-athlete wants to use USC's logo in their NIL deal, what must they do?",
+                    "options": [
+                      "A) Pay a fee to the university",
+                      "B) Get verbal approval from their coach",
+                      "C) Submit a request through the INFLCR app and wait for written approval",
+                      "D) Use it freely as long as it's for a good cause"
+                    ],
+                    "correct_answer": "C",
+                    "explanation": "Student-athletes must submit a request through the INFLCR app and obtain written approval before using USC's logo in any NIL deal to ensure proper licensing and compliance."
+                  }
+                }
+              },
+              {
+                "level": {
+                  "level_number": 2
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Facilities and Resources",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "videopath": "nil-vids/video-5.mp4",
+                  "content": {
+                    "type": "video",
+                    "transcript": "Alright, let's talk about using USC facilities for your NIL activities. The main thing to remember is: always ask first!\n\nFor example, if Alijah Vera-Tucker wanted to use the USC weight room to film a workout video for a fitness app sponsorship, he'd need to get written permission first. If approved, he might need to sign a rental agreement and follow all the usual rules for using the facility.\n\nWe just want to make sure everything's done properly and safely. Plus, we don't want people thinking USC is officially endorsing your personal deals."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Sponsorship Appropriateness Quiz",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "type": "quiz",
+                    "question": "Which of the following would likely be considered an appropriate sponsorship for a USC student-athlete?",
+                    "options": [
+                      "A) A sports betting app",
+                      "B) A company known for promoting diversity and inclusion",
+                      "C) An unregulated supplement company",
+                      "D) A local marijuana dispensary"
+                    ],
+                    "correct_answer": "B",
+                    "explanation": "Sponsorships that align with USC's values, such as promoting diversity and inclusion, are considered appropriate. On the other hand, partnerships with entities like sports betting apps, unregulated supplement companies, or marijuana dispensaries would likely be deemed inappropriate due to potential conflicts with university policies or ethical standards."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Term #2",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "text": "Disclosure Requirement: Athletes must report all NIL agreements to their school for compliance."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Student Requirements Quiz",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "type": "quiz",
+                    "question": "What is required if a student-athlete wants to use USC facilities for NIL activities?",
+                    "options": [
+                      "A) Nothing, they can use them anytime",
+                      "B) Verbal permission from their coach",
+                      "C) Written permission and possibly a rental agreement",
+                      "D) Payment of a standard fee"
+                    ],
+                    "correct_answer": "C",
+                    "explanation": "Student-athletes need written permission and may need to sign a rental agreement to use USC facilities for NIL activities."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Professional Representation",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "videopath": "nil-vids/video-6.mp4",
+                  "content": {
+                    "type": "video",
+                    "transcript": "Good news! You're allowed to get professional help with your NIL deals. This could be an agent, a lawyer, or another professional licensed in California.\n\nFor instance, if Keaontay Ingram wanted to hire an agent to help him land some sponsorship deals, that's totally fine. He'd just need to let the Office of Athletic Compliance know about it.\n\nJust remember, USC employees can't act as your agents or negotiate deals for you. We want to avoid any conflicts of interest."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Student Agency Quiz",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "type": "quiz",
+                    "question": "If a student-athlete hires an agent or lawyer for NIL deals, they must inform the ________.",
+                    "options": [
+                      "A) Athletic Director",
+                      "B) Head Coach",
+                      "C) Office of Athletic Compliance",
+                      "D) USC President"
+                    ],
+                    "correct_answer": "C",
+                    "explanation": "Student-athletes must inform the Office of Athletic Compliance if they hire an agent or lawyer for NIL deals."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Inappropriate Sponsorships",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "videopath": "nil-vids/video-7.mp4",
+                  "content": {
+                    "type": "video",
+                    "transcript": "Alright, let's talk about what kinds of sponsorships to avoid. We want you to protect your image and your future, so there are some deals we strongly discourage.\n\nFor example, if a sports betting company approached you about promoting their app, that would be a no-go. Same goes for anything involving illegal substances or supplements that could affect your NCAA eligibility.\n\nInstead, we encourage you to work with companies that align with your values and USC's values. Think about brands that promote diversity, equity, and inclusion, or that are known for treating their employees and customers well.\n\nRemember, your personal brand is valuable. Choose partnerships that will enhance your reputation, not damage it."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Notable Brand Partnerships",
+                  "time": "10 minutes",
+                  "finished": false,
+                  "content": {
+                    "type": "text_audio",
+                    "text": "Here are some notable brands that have partnered with USC student-athletes for NIL opportunities:\n\n1. **Jordan Brand**: Zion and Zachariah Branch became the first college football athletes to sign NIL deals with the iconic Jordan Brand.\n2. **Honey Stinger**: This sports nutrition brand partnered with several USC athletes across multiple sports, including beach volleyball, football, lacrosse, and track & field.\n3. **UScellular**: Has partnered with student-athletes at several universities for NIL deals, showcasing the type of brand partnerships available to college athletes.\n4. **Nike**: As USC has a team deal with Nike, some individual athletes may have additional NIL opportunities with the brand.\n5. **Local Businesses**: Student-athletes can partner with local businesses, such as car dealerships or smoothie shops, for NIL deals.\n6. **USC-affiliated Collectives**: Collectives like Conquest Collective and House of Victory facilitate NIL deals between brands and USC athletes.\n\nThese partnerships demonstrate the diverse range of opportunities available to USC student-athletes, from major national brands to local businesses and sport-specific companies.",
+                    "image":"nil/nil-partnerships.png"
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Scholarships and Financial Aid",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "videopath": "nil-vids/video-8.mp4",
+                  "content": {
+                    "type": "video",
+                    "transcript": "Here's some good news: The money you earn from NIL deals won't affect your USC scholarship. So if you're on a full ride, you don't have to worry about losing it because of your NIL activities.\n\nHowever, it might affect other financial aid. For example, if Drew Peterson was receiving a Pell Grant, his NIL earnings could potentially impact his eligibility for that grant.\n\nIf you're an international student-athlete, like Chevez Goodwin was, you'll want to be extra careful. Make sure to check how NIL earnings might affect your student visa status or tax situation."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Term #3",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "text": "Third-Party Approval: School must approve any external agents representing athletes in NIL negotiations."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Financial Aid Impact Quiz",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "type": "quiz",
+                    "question": "How might NIL earnings affect a student-athlete's financial situation?",
+                    "options": [
+                      "A) They will lose their athletic scholarship",
+                      "B) It has no impact on any type of financial aid",
+                      "C) International students are exempt from any financial aid changes due to NIL earnings",
+                      "D) It won't affect athletic scholarships but might impact other financial aid like Pell Grants"
+                    ],
+                    "correct_answer": "D",
+                    "explanation": "NIL earnings do not affect athletic scholarships but can influence need-based financial aid, such as Pell Grants, by altering a student-athlete's financial profile."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "0",
+                  "title": "Financial Aid Specifics Quiz",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "type": "quiz",
+                    "question": "While NIL earnings won't affect athletic scholarships, they may impact other forms of financial aid such as ________.",
+                    "options": [
+                      "A) Student loans",
+                      "B) Pell Grants",
+                      "C) Work-study programs",
+                      "D) Athletic stipends"
+                    ],
+                    "correct_answer": "B",
+                    "explanation": "NIL earnings can impact need-based financial aid like Pell Grants, as they are based on a student's financial need."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "1",
+                  "title": "Compliance with Other Laws and Policies",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "videopath": "nil-vids/video-9.mp4",
+                  "content": {
+                    "type": "video",
+                    "transcript": "Alright, we're in the home stretch! Remember, even with all these new NIL opportunities, you still need to follow other laws and rules.\n\nThis includes:\nOne - Paying taxes on your NIL earnings\nTwo - Following USC's general student conduct policies\nThree - Sticking to NCAA rules about amateurism\n\nFor example, if Isaiah Mobley signed a deal with a local restaurant to promote their new menu, he'd need to report that income on his taxes. And he'd still need to maintain his amateur status according to NCAA rules. We will talk more about taxes in other modules.\n\nAnd there you have it, Trojans! You're now equipped to tackle the world of NIL opportunities. Remember, this policy is here to empower you, not hold you back. It's all about helping you make the most of your personal brand while protecting your status as a student-athlete.\n\nIf you ever have questions or aren't sure about a potential deal, don't hesitate to reach out. You can always contact the Athletics Department at 213-740-3843 or email NILHotline@usc.edu.\n\nNow go out there and show the world what it means to be a Trojan! Fight On!"
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "2",
+                  "title": "Term #4",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "text": "Brand Usage Restriction: Prohibits athletes from using school logos in NIL promotions without permission."
+                  }
+                }
+              },
+              {
+                "activity": {
+                  "activity_code": "3",
+                  "title": "Key Takeaways",
+                  "time": "5 minutes",
+                  "finished": false,
+                  "content": {
+                    "type": "text_audio",
+                    "text": "1. Always disclose NIL contracts to USC\n2. Avoid conflicts with USC team contracts\n3. Obtain approval for using USC marks\n4. Balance NIL activities with academic and athletic commitments\n5. Be cautious with sponsorships and protect your eligibility",
+                    "image": "nil/nil-takeaways.png"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      
+        "Tax": {
+          "courses": [
+            {
+              "course_name": "Taxes",
+              "activities": [
+                {
+                  "level": {
+                    "level_number": 1
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "1",
+                    "title": "Introduction",
+                    "time": "1.5 minutes",
+                    "finished": false,
+                    "videopath": "tax-vids/video-1.mp4",
+                    "content": {
+                      "type": "video",
+                      "transcript": "Hello Trojans! I'm Sam, and I'm here to talk to you about something that might not seem exciting at first, but is incredibly important for your financial future: taxes.\n\nNow, you might be wondering, \"Why do I need to care so much about taxes? I'm just a college athlete.\" Well, let me tell you a story that might change your perspective.\n\nIn 2012, Warren Sapp, a former NFL star, filed for bankruptcy. Despite earning over $40 million during his career, he owed $6.7 million to creditors, including $942,000 in back taxes. This isn't an isolated incident. Many professional athletes have faced similar fates due to mismanagement of their finances, particularly when it comes to taxes.\n\nAs student athletes in the era of NIL deals, understanding taxes is more crucial than ever. Your actions now can set you up for financial success or struggle later in life. So, let's dive in with a foundational understanding of taxes.\n\nA quick disclaimer before we start, I just want to make sure we're also clear. This is not tax advice that you should rely on. If there's anything that we talk about that's interesting to you, feel free to seek out a competent tax advisor. We don’t provide any tax advice but only general knowledge about taxes."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "1",
+                    "title": "What are Taxes?",
+                    "time": "2 minutes",
+                    "finished": false,
+                    "videopath": "tax-vids/video-2.mp4",
+                    "content": {
+                      "type": "video",
+                      "transcript": "Let’s start with the Taxable versus Non-taxable.\n\nBy default, all income is taxable unless something in the US tax law says it’s not.\n\nSo I'll give you an example. There's a very famous case on this. Where somebody found money in a piano, so they bought a piano. They open it up a few years later, and they find a wad of money. And the case went to court, but essentially the court said that money is taxable. Found money is taxable so if you find $100 on the street, you pick it up and put it in your pocket, that's taxable income.\n\nWhether people actually report found money on their tax returns is a different discussion. Today, we're focusing on the legal requirements and compliance, not on what individuals choose to declare in practice. The key point is that, according to the law, found money is considered taxable income.\n\nAnother example related to student athletes, they are getting gift cards, swag bags, free gear, you know, free anything in exchange for appearance fees or endorsements that's taxable income to them. So income doesn't have to just be cash.\n\nHere's some examples of things that are non-taxable in the law: gifts, scholarships, resident assistant wages, athletic uniforms.\n\nGifts from family aren't taxable, but be careful - not everything called a 'gift' is truly a gift. If I ask a student athlete to take a selfie and give them a gift card, that's actually taxable income. Why? Because they did something in exchange. A real gift comes with no strings attached. If there's an expectation of something in return, it's likely taxable income.\n\nNow, for you students, there are a few other things to know. Scholarships? Usually not taxable if you use them for tuition, fees, books, and stuff you need for class. For Resident Assistant, if you're getting free room and board for being an Resident Assistant, there's actually a rule that says that's not taxable.\n\nOh, and for student athletes - those uniforms they gave you are also not taxable.\n\nJust remember, we're not covering everything here, but these are the big ones you should know about."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "0",
+                    "title": "Quiz #1",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "quiz",
+                      "question": "Which of the following is typically non-taxable for students?",
+                      "options": [
+                        "a) Gift cards for endorsements",
+                        "b) Scholarships for tuition",
+                        "c) Appearance fees",
+                        "d) Swag bags from events"
+                      ],
+                      "correct_answer": "b",
+                      "explanation": "Scholarships used for tuition are generally non-taxable."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "3",
+                    "title": "Doing your taxes",
+                    "time": "2 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "text_audio",
+                      "text": "So what does “doing your taxes” actually mean? Basically, any time you make money, you have to give a portion of it to the government to help pay for their services and programs. This is called income tax.\n\nThe Internal Revenue Service (IRS) is the government agency in charge of collecting taxes.\n\nAs USC student athletes in California, you'll primarily encounter:\n\n- **Federal Income Tax**: A percentage of your earnings that goes to the U.S. government.\n- **California State Income Tax**: An additional percentage that goes to the state of California. Remember, California has some of the highest state income tax rates in the country.\n- **Social Security and Medicare Taxes**: These fund programs for retirees and healthcare for older Americans.\n- **Los Angeles City Tax**: While LA doesn't have a city income tax, there are various local taxes you might encounter, like sales tax on purchases.\n\nLet's say you sign a $5,000 NIL deal with a local LA sports apparel company. You might be excited about that full amount, but remember:\n\n- Federal tax could take about 22% ($1,100)\n- California state tax could take about 9.3% ($465)\n- You might need to set aside money for self-employment tax as well\n\nSo from that $5,000, you might only keep about $3,000 after taxes. This is why understanding taxes is crucial for managing your finances effectively.\n\n**Capital gains taxes**: If you have investments, you’ll need to report any income you made from them so you can pay capital gains tax, which is tax on the profit you made from an investment. For example, if you buy shares of a stock for $1,000 and sell them for $3,000, you’ll pay capital gains tax on the $2,000 profit. The rate you’ll pay in capital gains tax depends on how long you’ve held an investment. Generally, short-term capital gains taxes apply to assets sold less than a year after you bought them. They are taxed at your ordinary income tax rate. Long-term capital gains taxes apply to assets sold a year or more after purchase, and they’re taxed at a lower rate."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "0",
+                    "title": "Quiz #2",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "quiz",
+                      "question": "The government agency responsible for collecting taxes is:",
+                      "options": [
+                        "a) FBI",
+                        "b) CIA",
+                        "c) IRS",
+                        "d) NSA"
+                      ],
+                      "correct_answer": "c",
+                      "explanation": "The IRS (Internal Revenue Service) is responsible for collecting taxes in the United States."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "0",
+                    "title": "Quiz #3",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "quiz",
+                      "question": "Capital gains tax applies to:",
+                      "options": [
+                        "a) All income",
+                        "b) Only salary income",
+                        "c) Profit made from investments",
+                        "d) Athletic scholarships"
+                      ],
+                      "correct_answer": "c",
+                      "explanation": "Capital gains tax is applied to the profit made from selling investments."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "1",
+                    "title": "Deductible",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "videopath": "tax-vids/video-3.mp4",
+                    "content": {
+                      "type": "video",
+                      "transcript": "Deductible means you can subtract certain expenses from your income when filing your personal income tax return. This lowers the amount of income you have to pay taxes on.\n\nFor example, let's say you're a USC student athlete who earned $5,000 from NIL deals. You spent $1,000 on equipment and supplies related to those deals. You can deduct that $1,000 from your $5,000 income, so you only have to pay taxes on $4,000.\n\nRemember to keep receipts and records of any expenses you plan to deduct.\n\nWhere I mentioned that everything is taxable unless there's a provision in the tax law that says it's not, the opposite holds true for deductions. Nothing is deductible unless there's something in the tax law that says it is.\n\nPersonal expense is not deductible, employee reimbursement expense is not deductible and for independent contractors, deductibles must be business related and specifically allowed in the tax law.\n\nIt's also wise to consult with a tax professional to ensure you're claiming deductions correctly."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "0",
+                    "title": "Quiz #4",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "quiz",
+                      "question": "To claim deductions, it's important to:",
+                      "options": [
+                        "a) Spend as much money as possible",
+                        "b) Keep receipts and records of expenses",
+                        "c) Avoid all business expenses",
+                        "d) Only make cash purchases"
+                      ],
+                      "correct_answer": "b",
+                      "explanation": "Keeping receipts and records is essential for claiming deductions."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "0",
+                    "title": "Quiz #5",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "quiz",
+                      "question": "A student-athlete earns NIL money as an independent contractor. Which of the following expenses may be deducted as a business expense?\n\nA) Athletic-style clothing (e.g., Nike sweatshirt)\nB) Suits/professional clothing worn on game day\nC) On-campus meal with other athletes\nD) Vitamin supplements\nE) None of the above",
+                      "options": [
+                        "A) Athletic-style clothing (e.g., Nike sweatshirt)",
+                        "B) Suits/professional clothing worn on game day",
+                        "C) On-campus meal with other athletes",
+                        "D) Vitamin supplements",
+                        "E) None of the above"
+                      ],
+                      "correct_answer": "E",
+                      "explanation": "Personal expenses like clothing and meals are generally not deductible as business expenses."
+                    }
+                  }
+                },
+                {
+                  "level": {
+                    "level_number": 2
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "3",
+                    "title": "Determine Your Filing Status",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "text_audio",
+                      "text": "Annual federal and state income tax returns must be filed if the gross income amount is over a certain amount based on filing status. Your filing status affects which forms you'll need to complete, your tax brackets, and ultimately how much you'll owe or receive as a refund.\n\nLet's explore the five tax statuses and how they might apply to you as a student athlete.\n\n**Single**\n\nMost student athletes will likely fall into this category. If you're not married and don't have any dependents (i.e., you don't financially support anyone else), you'll file as single.\n\nPerks of filing as single for student athletes:\n\n- Simpler tax return, which is beneficial if you're juggling academics, athletics, and NIL deals.\n- Potentially lower tax brackets, especially important if you're earning significant income from NIL deals.\n\n**Head of Household**\n\nThis status is less common for student athletes but could apply if you're supporting a qualifying person, such as a child, parent, or other relative, while in school.\n\nExamples:\n\n- If you're a student athlete with a child and you pay more than half the cost of maintaining your home, you might qualify for this status.\n- If you're a student athlete supporting a parent who lives with you and you provide more than half of their support, you could potentially qualify for Head of Household status.\n\nRequirements to claim a parent as a dependent for Head of Household status:\n\n- Your parent must be a U.S. citizen, U.S. national, U.S. resident alien, or a resident of Canada or Mexico.\n- You must pay more than half of the cost of maintaining your parent's main home for the entire year.\n- Your parent's gross income must be less than the exemption amount ($4,400 for 2023).\n- Your parent cannot file a joint return with someone else unless it's only to claim a refund.\n\nBenefits:\n\n- More favorable tax brackets\n- Larger standard deduction, which could be beneficial if you're earning from NIL deals\n- Potential for additional credits and deductions\n\n**Married Filing Jointly**\n\nFor married student athletes, this status allows you and your spouse to submit one tax return combining your incomes.\n\nConsiderations for student athletes:\n\n- If your spouse also has income, combining it with your athletic scholarship and NIL earnings could push you into a higher tax bracket.\n- However, you may be eligible for more deductions and credits, potentially offsetting the higher income.\n\n**Married Filing Separately**\n\nSome married student athletes might choose this option, especially if one spouse has significant NIL earnings or complicated financial situations.\n\nExample: If you're earning substantial NIL income but your spouse is not, filing separately might keep your spouse's tax liability lower.\n\nCaution: This status often means fewer deductions and credits, so calculate carefully before choosing this option.\n\n**Qualifying Surviving Spouse**\n\nWhile less common among student athletes, this status could apply if you've lost a spouse and have a dependent child.\n\nFor student athletes:\n\n- This status allows you to use the favorable joint filing tax rates for up to two years after your spouse's passing.\n- This could be particularly beneficial if you're managing NIL income along with your loss."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "0",
+                    "title": "Quiz #6",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "quiz",
+                      "question": "Which filing status often means fewer deductions and credits?",
+                      "options": [
+                        "a) Single",
+                        "b) Married Filing Jointly",
+                        "c) Married Filing Separately",
+                        "d) Head of Household"
+                      ],
+                      "correct_answer": "c",
+                      "explanation": "Married Filing Separately often results in fewer deductions and credits."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "1",
+                    "title": "Choose Your Filing Method for USC Student Athletes",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "videopath": "tax-vids/video-4.mp4",
+                    "content": {
+                      "type": "video",
+                      "transcript": "If you brought in income last year, you’ll probably need to file your taxes. While there are some exceptions (depending on personal factors like your age and financial situation), if you don’t file before the April 15 deadline, you could face fines and penalties! So let’s take a look at how to make filing as quick and easy as possible.\n\n**Ways to File**\n\nThere are three main ways you can file your taxes as a USC student athlete:\n\n1. **Directly with the IRS**\n2. **Using online tax software**\n3. **Using an in-person tax preparer**\n\nEach method has different costs and benefits, particularly relevant to your unique situation as a student athlete.\n\n**File Directly**\n\nMany USC student athletes can file their federal taxes for free! The IRS Free File forms allow you to fill out your tax forms by mail or electronically (e-filing). This can be a good option if you have a simple tax situation, perhaps with just scholarship income and a small NIL deal.\n\nHowever, be cautious: if you have multiple NIL deals or complex income sources, this method might not be the best choice as it provides no guidance on athlete-specific tax issues.\n\n**Tax Software**\n\nOnline tax software services can be particularly helpful for USC student athletes. Many of these services have specific sections for reporting NIL income and understanding the tax implications of your athletic scholarship. They can help you navigate questions like:\n\n- Is your scholarship taxable?\n- How do you report income from social media promotions?\n- What expenses related to your sport might be deductible?\n\nWhile these services come at a cost, they're usually cheaper than an in-person preparer and can provide valuable guidance for your unique situation.\n\n**Tax Preparer**\n\nFor USC student athletes with significant NIL deals or complex tax situations, a professional tax preparer might be the best option. Look for preparers who have experience with athlete taxes. They can help you:\n\n- Properly report all sources of income\n- Understand the tax implications of multi-state competitions\n- Maximize deductions related to your athletic activities\n- Plan for future tax years as your NIL income potentially increases\n\n**Costs and Services**\n\nAs a USC student athlete, your tax situation may be more complex than the average student. Here's a general guide:\n\n- If you only have scholarship income and maybe one small NIL deal, you might be able to file for free using IRS Free File.\n- If you have multiple NIL deals but they're relatively straightforward, tax software might be your best bet. Look for services that specifically mention support for student athletes.\n- If you have significant NIL income, are dealing with multi-state issues, or have other complex tax situations, investing in a professional tax preparer could save you money and stress in the long run.\n\nRemember, USC's Volunteer Income Tax Assistance (VITA) program might be able to help if you meet their income requirements. They have experience with student athlete tax issues and can be a great free resource.\n\nUltimately, choose a method that gives you confidence in properly reporting your income and maximizing your deductions. As your athletic career progresses and your financial situation becomes more complex, don't hesitate to seek more comprehensive tax help."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "0",
+                    "title": "Quiz #7",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "quiz",
+                      "question": "What is the deadline for filing taxes mentioned in the text?",
+                      "options": [
+                        "a) March 15",
+                        "b) April 1",
+                        "c) April 15",
+                        "d) May 1"
+                      ],
+                      "correct_answer": "c",
+                      "explanation": "The deadline for filing taxes is April 15."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "0",
+                    "title": "Quiz #8",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "quiz",
+                      "question": "What is USC's Volunteer Income Tax Assistance (VITA) program?",
+                      "options": [
+                        "a) A mandatory tax filing service for all students",
+                        "b) A free resource for eligible students, including those with athlete tax issues",
+                        "c) A paid tax preparation service",
+                        "d) An online tax software provided by USC"
+                      ],
+                      "correct_answer": "b",
+                      "explanation": "USC's VITA program is a free resource for eligible students needing tax assistance."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "3",
+                    "title": "Special Considerations for Student Athletes",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "text_audio",
+                      "text": "**NIL Income**: Remember, income from NIL deals is taxable. It may affect your filing status if it significantly increases your income.\n\n**Athletic Scholarships**: The taxable portion of your scholarship (if any) could influence your total income and thus your filing status decision.\n\n**Multi-State Considerations**: If you compete in different states and earn income there, you might need to file taxes in multiple states, regardless of your federal filing status.\n\n**International Student Athletes**: Your visa status and the tax treaties between your home country and the U.S. may affect your filing status options.\n\nRemember, your filing status can significantly impact your tax liability. As a student athlete managing NIL deals and scholarships, it's crucial to understand these options and choose the most beneficial status for your situation. When in doubt, consult with a tax professional who has experience with student athlete finances."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "3",
+                    "title": "Navigating the Tax Landscape: Practical Examples for Student Athletes",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "text_audio",
+                      "text": "Let's walk through some real-world scenarios you might encounter as a USC student athlete:\n\n**Scenario 1: NIL Deal Income**\n\nYou, a USC football player, sign a deal to promote a local sports drink on your Instagram. The company pays you $100 per month.\n\n**Tax Implications**:\n\n- This $1,200 annual income is taxable.\n- You may need to make estimated tax payments quarterly if your total tax liability is expected to be $1,000 or more.\n- Keep detailed records of all income and related expenses.\n\n**How to handle it**:\n\n- Create a separate bank account for your NIL earnings.\n- Save all contracts and payment receipts.\n- Track any expenses related to this deal (e.g., travel costs to photoshoots).\n- Use IRS Form 1040-ES to calculate and pay estimated taxes quarterly.\n- Report this income on Schedule C of your Form 1040 at tax time.\n\n**Scenario 2: Free Gear**\n\nAs a USC basketball player, a local shoe store sends you $500 worth of shoes and apparel to wear and promote.\n\n**Tax Implications**:\n\n- The fair market value of these items ($500) is considered taxable income.\n- You'll need to report this on your tax return, even though you didn't receive cash.\n\n**How to handle it**:\n\n- Get a written statement from the company detailing the items and their retail value.\n- Keep a log of when and how you use these items for promotional purposes.\n- Report this as \"Other Income\" on Line 8 of Form 1040.\n- Consider consulting with USC's compliance office to ensure this arrangement doesn't violate NCAA rules.\n\n**Scenario 3: Appearance Fees**\n\nYou're a USC swimmer paid $50 to appear at a local youth sports camp for a meet-and-greet.\n\n**Tax Implications**:\n\n- This $50 is taxable income.\n- If you have multiple such appearances, keep a log of dates, locations, and amounts earned.\n\n**How to handle it**:\n\n- Create a spreadsheet to track all appearances, including date, location, payer, and amount.\n- Save any contracts or agreements related to these appearances.\n- If total miscellaneous income exceeds $400, report it on Schedule C.\n- If less than $400, report on Line 8 of Form 1040 as \"Other Income\".\n\n**Scenario 4: YouTube Channel**\n\nAs a USC volleyball player, you start a YouTube channel about your life as a student athlete. It generates $800 in ad revenue over the year.\n\n**Tax Implications**:\n\n- This $800 is taxable self-employment income.\n- You may be able to deduct certain expenses related to creating content.\n- You'll likely need to pay self-employment tax (15.3%) in addition to income tax.\n\n**How to handle it**:\n\n- Keep meticulous records of all income from the channel.\n- Track all expenses related to creating content (e.g., camera equipment, editing software).\n- Report this income and expenses on Schedule C.\n- Use Schedule SE to calculate self-employment tax.\n- Consider making quarterly estimated tax payments using Form 1040-ES.\n\n**Scenario 5: Scholarship and Stipends**\n\nYou receive a partial athletic scholarship worth $5,000 and a $500 stipend for living expenses.\n\n**Tax Implications**:\n\n- The portion of the scholarship for tuition, fees, and required books is typically tax-free.\n- The stipend for living expenses is usually taxable income.\n\n**How to handle it**:\n\n- Obtain a detailed breakdown of your scholarship from USC's financial aid office.\n- Report the $500 stipend as taxable income on your Form 1040.\n- If you receive a Form 1098-T from USC, use this to help calculate the taxable portion of your scholarship."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "3",
+                    "title": "General Tax Tips for USC Student Athletes",
+                    "time": "5 minutes",
+                    "finished": false,
+                    "content": {
+                      "type": "text_audio",
+                      "text": "- Keep all tax-related documents in one secure place.\n- Consider using tax preparation software designed for students or athletes.\n- Take advantage of USC's VITA program for free tax preparation assistance.\n- Always consult with USC's compliance office before entering into any NIL deals.\n- When in doubt, seek advice from a tax professional familiar with student athlete issues.\n- Remember to file both federal and California state tax returns.\n- Keep track of any out-of-state appearances or competitions, as you may need to file tax returns in those states as well.\n\nBy following these guidelines, you'll be better prepared to handle your tax obligations as a USC student athlete. Remember, proper tax management is crucial for your financial health both now and in your future career."
+                    }
+                  }
+                },
+                {
+                  "activity": {
+                    "activity_code": "3",
+                    "title": "Closing Advice",
+                    "time": "30 seconds",
+                    "finished": false,
+                    "content": {
+                      "type": "text_audio",
+                      "text": "Don't ignore your taxes. The consequences of non-compliance can be severe and long-lasting.\n\nSeek professional help. Consider working with a tax professional who has experience with athletes.\n\nEducate yourself. Take advantage of financial literacy resources offered by USC and reputable online sources. There’s a lot of misinformation on the internet, friends, and family—be careful.\n\nSave a portion of your earnings. A good rule of thumb is to set aside 25-30% of your NIL income for taxes.\n\nPlan for the future. Good tax habits now will serve you well throughout your career, whether in sports or another field.\n\nRemember, understanding and managing your taxes is a crucial part of your journey as a student athlete to creating and maintaining wealth. It’s not how much you have, but what you do with what you have!"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        
+          "Investing": {
+            "courses": [
+              {
+                "course_name": "Investing 101",
+                "activities": [
+                  {
+                    "level": {
+                      "level_number": 1
+                    }
+                  },
+                  {
+                    "activity": {
+                      "activity_code": "1",
+                      "title": "Introduction",
+                      "time": "5 minutes",
+                      "finished": false,
+                      "videopath": "investing-vids/video-1.mp4",
+                      "content": {
+                        "type": "video",
+                        "transcript": "Hey Trojans! Welcome to Investing 101, brought to you by the Rockefeller Global Family Office Next Gen Financial Education program. As we dive into the world of finance, let's keep in mind some incredible USC alumni who've mastered both their sport and their finances.\n\nTake Marcus Allen, USC football legend and NFL Hall of Famer. Post-retirement, he's become a savvy businessman and investor. Or consider Lisa Leslie, basketball icon and four-time Olympic gold medalist, who's now a successful real estate investor. These Trojans didn't just excel on the field or court – they've scored big in the financial game too.\n\nNow, let's break down our playbook for financial success:"
+                      }
+                    }
+                  },
+                  {
+                    "activity": {
+                      "activity_code": "3",
+                      "title": "Savings vs. Investing",
+                      "time": "10 minutes",
+                      "finished": false,
+                      "content": {
+                        "type": "text_audio",
+                        "text": "Think of savings as your defensive strategy and investing as your offense in your financial playbook. Just like in sports, you need both to win the game.\n\n**Savings - Your Defensive Line:**\n\n- **Emergency Fund:** This is your first line of defense, like having a solid offensive line. Aim to save about six months of expenses. Example: If your monthly expenses are $2,000, try to build up $12,000 in your emergency fund.\n- This fund covers unexpected costs like injuries, equipment repairs, or sudden travel needs.\n- Keep this money in easily accessible accounts like high-yield savings accounts or money market funds.\n- Think of it as your financial \"time out\" - it gives you breathing room when life throws you a curveball.\n\n**Assignment:**\n\n1. Calculate your monthly expenses and set a goal for your emergency fund.\n2. How much of the emergency fund have you set aside for yourself?"
+                      }
+                    }
+                  },
+                  {
+                    "activity": {
+                      "activity_code": "3",
+                      "title": "Investing - Your Offensive Play",
+                      "time": "5 minutes",
+                      "finished": false,
+                      "content": {
+                        "type": "text_audio",
+                        "text": "- This is how you score big in the long run, like planning a game-winning drive.\n- Investing means putting your money to work in assets that have the potential to grow over time.\n- Examples include stocks, bonds, mutual funds, or real estate.\n- It's riskier than saving, but offers the potential for higher returns.\n\nRemember Ronnie Lott, the USC football legend? After his NFL career, he didn't just rely on his playing salary. He became a successful venture capitalist, investing in startups and tech companies. This shows how smart investing can extend your financial \"playing field\" long after your athletic career ends.\n\nAnother Example:\n\nThink of Olympic swimmer Michael Phelps. Beyond his swimming earnings, he's invested in several businesses and real estate. This diversification helps protect and grow his wealth even after retiring from competitive swimming."
+                      }
+                    }
+                  },
+                  {
+                    "activity": {
+                      "activity_code": "3",
+                      "title": "Key Differences",
+                      "time": "5 minutes",
+                      "finished": false,
+                      "content": {
+                        "type": "text_audio",
+                        "text": "**Timeframe:** Savings are for short-term goals (0-3 years), while investments are typically for longer-term goals (3+ years).\n\n**Risk:** Savings have low risk but low reward. Investments have higher risk but potentially higher rewards.\n\n**Liquidity:** Savings are easily accessible, while investments may be tied up for longer periods.\n\n**Growth Potential:** Savings grow slowly with interest, while investments can grow more significantly over time.\n\nRemember, as a student athlete, you're in a unique position. Your potential for future earnings (whether in professional sports or other careers) means you can potentially take more calculated risks with investing. However, having a solid savings foundation is crucial for financial stability, especially given the unpredictable nature of athletic careers.\n\nBy balancing savings and investments, you're setting yourself up for financial success both on and off the field. It's about playing both a strong defense and a strategic offense with your money."
+                      }
+                    }
+                  },
+                  {
+                    "activity": {
+                      "activity_code": "3",
+                      "title": "Investment Goals",
+                      "time": "10 minutes",
+                      "finished": false,
+                      "content": {
+                        "type": "text_audio",
+                        "text": "Just like you set specific, measurable goals for your athletic performance, you need to approach your financial future with the same level of strategy and precision. Let's break down investment goals into three timeframes:\n\n**Short-term Goals (0-3 years):**\n\n- **Examples:** Post-season vacation, new training equipment, or emergency fund\n- For USC athletes, this might include saving for:\n  - A celebratory trip after winning a championship\n  - High-quality recovery gear to enhance performance\n  - Building a 6-month emergency fund for unexpected expenses\n- **Strategy:** Use low-risk, highly liquid investments like high-yield savings accounts or money market funds\n- **Remember:** The goal here is preservation of capital, not high returns\n\n**Medium-term Goals (3-10 years):**\n\n- **Examples:** Down payment on a home, starting a business, or graduate school\n- For USC athletes, consider:\n  - Saving for a down payment on a home in LA's competitive real estate market\n  - Funding for a sports-related business venture after graduation\n  - Preparing for potential graduate studies or professional certifications\n- **Strategy:** Mix of moderate-risk investments like a balanced portfolio of stocks and bonds\n- Aim for a balance between growth and capital preservation\n\n**Long-term Goals (10+ years):**\n\n- **Primary example:** Retirement planning\n- For USC athletes, think about:\n  - Building wealth to maintain your lifestyle after your athletic career\n  - Creating generational wealth for your family\n  - Funding philanthropic goals or starting a foundation\n- **Strategy:** Higher allocation to growth-oriented investments like stocks or real estate\n- Take advantage of compound interest over time\n\n**Real-life Example: Michael Strahan**\n\nWhile not a USC Trojan, Michael Strahan provides an excellent example of strategic long-term financial planning for athletes:\n\n- **NFL Career:** Strahan didn't just focus on his next game or season. He used his NFL earnings as a foundation for future wealth.\n- **Media Empire:** Post-retirement, he diversified into media, becoming a co-host on \"Live! with Kelly and Michael\" and \"Good Morning America.\"\n- **Business Ventures:** Strahan has invested in various businesses, including:\n  - A men's clothing line with J.C. Penney\n  - Production company (SMAC Entertainment)\n  - Endorsement deals with brands like Metamucil and Subway\n- **Real Estate:** He's invested in properties in New York and Los Angeles, diversifying his portfolio beyond liquid assets.\n- **Long-term Vision:** Strahan's approach demonstrates how to leverage athletic success into lasting financial security and diverse income streams.\n\n**USC Athlete Application:**\n\n- **Start Now:** Even small investments during your college years can grow significantly over time.\n- **Use NIL Opportunities:** If you have Name, Image, and Likeness deals, allocate a portion of that income to each of your goal timeframes.\n- **Think Beyond Sports:** Consider how your athletic skills and network can translate into business opportunities post-graduation.\n- **Seek Mentorship:** Connect with USC alumni who have successfully transitioned from athletics to business for guidance and inspiration."
+                      }
+                    }
+                  },
+                  {
+                    "activity": {
+                      "activity_code": "3",
+                      "title": "Application / Practice",
+                      "time": "10 minutes",
+                      "finished": false,
+                      "content": {
+                        "type": "text_audio",
+                        "text": "**Start Now:** Even small investments during your college years can grow significantly over time.\n\n- **Question:** How much do you want to save per day for investment?\n\n**Use NIL Opportunities:** If you have Name, Image, and Likeness deals, allocate a portion of that income to each of your goal timeframes.\n\n**Think Beyond Sports:** Consider how your athletic skills and network can translate into business opportunities post-graduation.\n\n- **Question:** What is your desired career after sport? What are your superpowers and what do you want to learn more about?\n\n**Seek Mentorship:** Connect with USC alumni who have successfully transitioned from athletics to business for guidance and inspiration.\n\n- **Question:** Who is your top-of-mind mentor? When can you talk to them?"
+                      }
+                    }
+                  },
+                  {
+                    "activity": {
+                      "activity_code": "3",
+                      "title": "Understanding Risk Tolerance: Knowing Your Limits",
+                      "time": "5 minutes",
+                      "finished": false,
+                      "content": {
+                        "type": "text_audio",
+                        "text": "**Factors affecting risk tolerance:**\n\n- Time horizon\n- Age\n- Overall financial picture\n- Personal comfort level\n\n**Example:** Former USC volleyball player Victoria Garrick has diversified her career post-graduation, becoming a mental health advocate and podcaster. She's balancing different types of \"risk\" in her career and investments.\n\n**Assignment:** Take an online risk tolerance questionnaire and reflect on your results."
+                      }
+                    }
+                  },
+                  {
+                    "activity": {
+                      "activity_code": "3",
+                      "title": "Asset Classes: Building Your Financial Team",
+                      "time": "5 minutes",
+                      "finished": false,
+                      "content": {
+                        "type": "text_audio",
+                        "text": "**Cash and Equivalents:** Your reliable bench players\n\n- Savings accounts, money market funds\n\n**Fixed Income (Bonds):** Your steady defenders\n\n- Government bonds, corporate bonds\n\n**Equities (Stocks):** Your high-scoring forwards\n\n- Individual stocks, mutual funds, ETFs\n\n**Success Story:** Willie McGinest, USC alum and former NFL player, has a diverse portfolio including real estate and business ventures. He's playing all positions in the financial game."
+                      }
+                    }
+                  },
+                  {
+                    "activity": {
+                      "activity_code": "3",
+                      "title": "The Power of Diversification: Your Championship Strategy",
+                      "time": "5 minutes",
+                      "finished": false,
+                      "content": {
+                        "type": "text_audio",
+                        "text": "Don't put all your eggs in one basket.\n\n- Spread risk across different asset classes, sectors, and geographic regions\n\n**Example:** Venus Williams (not a Trojan, but a great example for athletes) has invested in everything from her own clothing line to a plant-based protein company. She's spreading her risk and opportunities across different sectors.\n\n**Assignment:** Create a mock diversified portfolio using a free online tool or spreadsheet. Include at least three different asset classes."
+                      }
+                    }
+                  },
+                  {
+                    "activity": {
+                      "activity_code": "3",
+                      "title": "Glossary",
+                      "time": "10 minutes",
+                      "finished": false,
+                      "content": {
+                        "type": "text_audio",
+                        "text": "Based on the Investing 101 presentation for USC student athletes, here are some key financial concepts you should understand before starting to invest:\n\n**Saving vs. Investing:**\n\n- Saving is for short-term goals and emergencies, typically within a year.\n- Investing is for long-term goals, usually more than a year out.\n- Both are important and should be done in tandem.\n\n**Investment Goals:**\n\n- Short-term (1-3 years), medium-term (5-10 years), and long-term (10+ years) goals.\n- Different goals require different investment strategies and risk levels.\n\n**Risk Tolerance:**\n\n- Understanding your ability to take on risk (based on timeline, age, portfolio size).\n- Assessing your attitude towards risk (comfort level with market fluctuations).\n- Aligning investments with the lower of your risk ability and attitude.\n\n**Basic Asset Classes:**\n\n- Cash and cash equivalents (high liquidity, low risk/return).\n- Fixed income/bonds (moderate risk/return, regular income).\n- Equities/stocks (higher risk/return, potential for growth).\n\n**Diversification:**\n\n- Spreading investments across different asset classes, sectors, and geographies.\n- Reducing asset-specific risk while maintaining potential for returns.\n\n**Investment Vehicles:**\n\n- Mutual funds (actively managed, higher fees).\n- ETFs (passively managed, lower fees).\n- Individual stocks and bonds.\n\n**Time Value of Money:**\n\n- Understanding that starting to invest early provides more time for compound growth.\n\n**Liquidity:**\n\n- Knowing how quickly you can access your invested funds if needed.\n\n**Fees and Expenses:**\n\n- Being aware of costs associated with different investment options.\n\n**Basic Market Concepts:**\n\n- Understanding market cycles, volatility, and the importance of a long-term perspective.\n\n**Retirement Accounts:**\n\n- Knowing the benefits of tax-advantaged accounts like 401(k)s and IRAs.\n\n**Emergency Fund:**\n\n- Importance of having 3-6 months of expenses saved before heavy investing.\n\nBy grasping these concepts, you can make more informed decisions about your financial future and begin your investment journey with a solid foundation."
+                      }
+                    }
+                  },
+                  {
+                    "level": {
+                      "level_number": 2
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+                
+      
+      
+    
+        
+      
+    }
+  }
+  
