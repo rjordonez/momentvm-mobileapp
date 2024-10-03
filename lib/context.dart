@@ -74,7 +74,7 @@ class _ContextPageState extends State<ContextPage> {
   }
 
   Future<String> _fetchAndStoreAudio(String sentence, Directory directory, int index) async {
-    final String apiKey = 'AIzaSyC83UDnamh0-rVUXzUuS0WcmSdcriI5eJo';
+    final String apiKey = '';
 
     final String url = 'https://texttospeech.googleapis.com/v1/text:synthesize?key=$apiKey';
 
